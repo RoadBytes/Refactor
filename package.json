@@ -1,0 +1,14 @@
+{
+  "name": "refactor",
+  "version": "1.0.0",
+  "description": "Repo of code following *Refactor* by Fowler",
+  "main": "code-ch1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jason Ona",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
